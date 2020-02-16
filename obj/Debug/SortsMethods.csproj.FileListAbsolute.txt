@@ -1,0 +1,6 @@
+D:\Learning\SortsMethods\bin\Debug\SortsMethods.exe.config
+D:\Learning\SortsMethods\bin\Debug\SortsMethods.exe
+D:\Learning\SortsMethods\bin\Debug\SortsMethods.pdb
+D:\Learning\SortsMethods\obj\Debug\SortsMethods.csprojAssemblyReference.cache
+D:\Learning\SortsMethods\obj\Debug\SortsMethods.exe
+D:\Learning\SortsMethods\obj\Debug\SortsMethods.pdb
